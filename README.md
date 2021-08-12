@@ -1,9 +1,12 @@
-# Introduction to Statistical Learning: with Applications in R written by Gareth James,Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+# Introduction to Statistical Learning
 
-I mainly used Python for the end of chapter exerices. The libraries used is listed below:
+I mainly used Python for the end of chapter exercises.
 
-Pandas
-Matplotlib
-Seaborn
+The libraries used are listed below:
+ * Pandas
+ * Matplotlib
+ * Seaborn
 
-I'm using [Anaconda/Jupyter Notebooks](https://www.anaconda.com/) to code and their [online website](https://www.statlearning.com/)
+I'm using [Anaconda/Jupyter Notebooks](https://www.anaconda.com/) to code and am using the 2nd edition of their 1st printed version.
+You can access this edition [here](https://web.stanford.edu/~hastie/ISLRv2_website.pdf).
+
